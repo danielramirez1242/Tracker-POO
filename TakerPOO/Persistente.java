@@ -1,0 +1,1 @@
+public interface Persistente { String aFormatoArchivo(); }
