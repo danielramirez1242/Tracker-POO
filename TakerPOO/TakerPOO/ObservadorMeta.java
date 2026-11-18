@@ -1,0 +1,1 @@
+public interface ObservadorMeta { void notificarMetaSuperada(double total); }
